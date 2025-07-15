@@ -1,4 +1,3 @@
-# app.py
 from flask import Flask, request, render_template, send_file
 import os
 from fetcher import fetch_url_content
